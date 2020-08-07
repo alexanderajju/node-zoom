@@ -89,3 +89,6 @@ video {
   list-style: none;
   padding: 10px;
 }
+.umute .stop{
+  color: rgb(233, 4, 4);
+}
